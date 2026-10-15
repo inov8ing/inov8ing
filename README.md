@@ -20,7 +20,10 @@ I turn ideas and client requirements into working software — web apps, mobile 
 - [**autoflow-mcp**](https://github.com/inov8ing/autoflow-mcp) — MCP server connecting AI agents to browser-based AI image and video generation, with a background task queue
 - [**AutoShutdownApp**](https://github.com/inov8ing/AutoShutdownApp) — open-source Windows utility that shuts down your PC based on resource usage and inactivity
 
-## 📫 Find Me
+## 🤝 Connect with Me
 
-- 🌍 [inov8ing.io](https://inov8ing.io)
-- 💼 Available for freelance projects and collaborations
+[![Website](https://img.shields.io/badge/Website-inov8ing.io-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inov8ing.io)
+[![Facebook](https://img.shields.io/badge/Facebook-Reswan_Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983947685)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-inov8ing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inov8ing/)
+
+💼 Available for freelance projects and collaborations
