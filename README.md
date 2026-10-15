@@ -23,7 +23,7 @@ I turn ideas and client requirements into working software — web apps, mobile 
 ## 🤝 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-inov8ing.io-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inov8ing.io)
-[![Facebook](https://img.shields.io/badge/Facebook-Reswan_Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983947685)
+[![Facebook](https://img.shields.io/badge/Facebook-Rizwan_Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983947685)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-inov8ing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inov8ing/)
 
 💼 Available for freelance projects and collaborations
