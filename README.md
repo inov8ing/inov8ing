@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rizwan Ali 👋
 
-<!--
-**inov8ing/inov8ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI-assisted full-stack product builder** based in Pakistan, working through my studio **Inov8ing** ([inov8ing.io](https://inov8ing.io)).
 
-Here are some ideas to get you started:
+I turn ideas and client requirements into working software — web apps, mobile apps, desktop tools, browser automation, and AI-powered products — by directing AI coding agents toward useful, verifiable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- 🤖 **AI-powered tools** — MCP servers, AI agents, and automation workflows
+- 🖥️ **Desktop applications** — Windows utilities and productivity tools
+- 🌐 **Web applications** — full-stack apps and websites
+- 🔧 **Automation** — browser automation and system integrations
+
+## Selected work
+
+- [**autoflow-mcp**](https://github.com/inov8ing/autoflow-mcp) — MCP server connecting AI agents to browser-based AI image and video generation, with a background task queue
+- [**AutoShutdownApp**](https://github.com/inov8ing/AutoShutdownApp) — open-source Windows utility that shuts down your PC based on resource usage and inactivity
+
+## Find me
+
+- 🌍 [inov8ing.io](https://inov8ing.io)
+- 💼 Available for freelance projects and collaborations
